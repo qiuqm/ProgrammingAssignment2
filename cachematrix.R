@@ -35,5 +35,3 @@ cacheSolve <- function(x, ...) {
   x$setSolve(inv)
   inv
 }
-
-my_matrix<-makeCacheMatrix(matrix(1:4,2,2))
